@@ -1,4 +1,4 @@
-- name: Windows_x64
+    - name: Windows_x64
       os: windows
       language: cpp
 
